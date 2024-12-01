@@ -1,0 +1,21 @@
+footer {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #0275d8 ;
+}
+
+.vysledek {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.row{
+    margin-top: 150px;
+    height: 500px;
+}
